@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+}
+
+.header-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /*color: ;*/
+    background-color: #b7eeff;
+}
+
+#header {
+    width: max-content;
+    color: green;
+}
+
+#header2 {
+    width: max-content;
+    color: green;
+}
